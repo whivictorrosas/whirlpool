@@ -1,0 +1,348 @@
+{
+  "Header": {
+    "title": "BrandConfig",
+    "version": "1.0",
+    "createdAt": "Oct 22, 2018 6:30:00 PM",
+    "modifiedDate": "May 31, 2019 3:30:00 PM",
+    "createdBy": "Venkat Boddapati",
+    "Description": ""
+  },
+  "Data": {
+    "EndPoints": {
+      "DashboardImages": "NAR/WHIRLPOOL/MOBILEAPP/Images/Dashboard/",
+      "S2CImages": "NAR/WHIRLPOOL/MOBILEAPP/Images/ScanToConnect/",
+      "AssistedCooking" : "NAR/WHIRLPOOL/MOBILEAPP/Images/CulinaryCenter/AssistedCooking/"
+    },
+    "SupportedCountryCodes": [
+      "US",
+      "CA"
+    ],
+    "Frequencypooling": 5,
+    "HTTPRetryAttemptCount": 3,
+    "FavouritesStepsCount" : 3,
+    "ExcludedErrorCodes": [
+      "F0,E0"
+    ],
+    "MaxNoOfErrorCodes": 20,
+    "DashboardOrder": [
+      "DDM_COOKING_MINERVA_SINGLE_BIO7_V1", 
+      "DDM_COOKING_MinervaBIO7Single_V28",
+      "DDM_COOKING_MINERVA_DOUBLE_BIO7_V1", 
+      "DDM_COOKING_MinervaBIO7Double_V28",
+      "DDM_COOKING_MINERVA_COMBO_BIO7_V1", 
+      "DDM_COOKING_MinervaBIO7Combo_V28",
+      "DDM_COOKING_MINERVA_SINGLE_BIO9_V1", 
+      "DDM_COOKING_MinervaBIO9Single_V28",
+      "DDM_COOKING_MINERVA_DOUBLE_BIO9_V1", 
+      "DDM_COOKING_MinervaBIO9Double_V28",
+      "DDM_COOKING_MINERVA_COMBO_BIO9_V1", 
+      "DDM_COOKING_MinervaBIO9Combo_V28",
+      "DDM_COOKING_MINERVA_SINGLE_BIO5_V1",
+      "DDM_COOKING_MINERVA_DOUBLE_BIO5_V1",
+      "DDM_COOKING_MINERVA_COMBO_BIO5_V1",
+      "DDM_COOKING_VSI_V1",
+      "DDM_COOKING_VSI_V2",
+      "DDM_COOKING_VSI_V27",
+      "DDM_COOKING_VESTA_V0",
+      "DDM_COOKING_VESTA_V1,",
+      "DDM_COOKING_VESTA_V2 ",
+      "DDM_COOKING_MHC76_V0", 
+      "DDM_COOKING_MHC76_V1",
+      "DDM_COOKING_MHC96_V1",
+      "DDM_COOKING_MHC96_V2",
+      "DDM_COOKING_MHC96_V28",
+      "DDM_COOKING_Loki_WPR_V1",
+      "DDM_DISHWASHER_GEBL_DISH17_FID_A55_V1",
+      "DDM_DISHWASHER_GEBL_DISH17_FID_A75_V1",
+      "DDM_Dishwasher_CleanConnect_V1",
+      "DDM_Dishwasher_SmartGrid_V1",
+      "DDM_LAUNDRY_JANUS_COMBO_INDIGO_WHIRLPOOL_V1",
+      "DDM_LAUNDRY_RADIANT_NAR_COMBO_V1",
+      "DDM_LAUNDRY_JANUS_WASHER_INDIGO_WHIRLPOOL_DVT_V1",
+      "DDM_LAUNDRY_JANUS_WASHER_INDIGO_WHIRLPOOL_V1",
+      "DDM_Washer_V10K_V1",
+      "DDM_Washer_SmartGrid_V1",
+      "DDM_LAUNDRY_VMAX20_WHIRLPOOL_WASHER_V1",
+      "DDM_LAUNDRY_JANUS_DRYER_INDIGO_WHIRLPOOL_V1",
+      "DDM_Dryer_V10K_V1",
+      "DDM_Dryer_SmartGrid_V1",
+      "DDM_MX_AIRCONDITIONER_AIRCONNECT_V1",
+      "DDM_FOODRECYCLER_ZERA_V1",
+      "DDM_Refrigerator_WHR_3X_V1",
+      "DDM_Refrigerator_SmartGrid_V1"
+    ],
+    "ApplicationFeatures": {
+      "AddAppliance": {
+        "Visible": true,
+        "AvailableIn": [
+          "US",
+          "CA"
+        ]
+      },
+      "InviteUser": {
+        "Visible": true,
+        "AvailableIn": [
+          "US",
+          "CA"
+        ]
+      },
+      "Addlocation": {
+        "Visible": true,
+        "AvailableIn": [
+          "US",
+          "CA"
+        ]
+      }
+    },
+    "ApplianceCommonFeatures": {
+      "ControlLock": {
+        "Visible": true,
+        "AvailableIn": [
+          "US",
+          "CA"
+        ]
+      },
+      "RemoteStatus": {
+        "Visible": true,
+        "ReadOnly": true,
+        "AvailableIn": [
+          "US",
+          "CA"
+        ]
+      },
+      "Notifications": {
+        "Visible": true,
+        "AvailableIn": [
+          "US",
+          "CA"
+        ]
+      },
+      "FaultCodes": {
+        "Visible": true,
+        "AvailableIn": [
+          "US",
+          "CA"
+        ]
+      },
+      "ChangeTempUnits": {
+        "Visible": true,
+        "AvailableIn": [
+          "US",
+          "CA"
+        ]
+      },
+      "ChangeSoundPowerOnOff": {
+        "Visible": true,
+        "AvailableIn": [
+          "US",
+          "CA"
+        ]
+      },
+      "ChangeNumberEntry": {
+        "Visible": true,
+        "AvailableIn": [
+          "US",
+          "CA"
+        ]
+      },
+      "ChangeClockTheme": {
+        "Visible": true,
+        "AvailableIn": [
+          "US",
+          "CA"
+        ]
+      },
+      "ChangeClockOnOffStatus": {
+        "Visible": true,
+        "AvailableIn": [
+          "US",
+          "CA"
+        ]
+      },
+      "ChangeApplianceLanguage": {
+        "Visible": true,
+        "AvailableIn": [
+          "US",
+          "CA"
+        ]
+      },
+      "ChangeSoundKeyAlert": {
+        "Visible": true,
+        "AvailableIn": [
+          "US",
+          "CA"
+        ]
+      },
+      "ChangeSoundKeyPress": {
+        "Visible": true,
+        "AvailableIn": [
+          "US",
+          "CA"
+        ]
+      },
+      "ChangeDisplayOnOffStatus": {
+        "Visible": true,
+        "AvailableIn": [
+          "US",
+          "CA"
+        ]
+      },
+      "ChangeBrightness": {
+        "Visible": true,
+        "AvailableIn": [
+          "US",
+          "CA"
+        ]
+      },
+      "QuietMode": {
+        "Visible": true,
+        "AvailableIn": [
+          "US",
+          "CA"
+        ]
+      },
+      "MeatProbe": {
+        "Visible": true,
+        "ReadOnly": true,
+        "AvailableIn": [
+          "US",
+          "CA"
+        ]
+      },
+      "LightOnOff": {
+        "Visible": true,
+        "AvailableIn": [
+          "US"
+        ]
+      },
+      "SetOven": {
+        "Visible": true,
+        "AvailableIn": [
+          "US"
+        ]
+      },
+      "SetDishWasher": {
+        "Visible": true,
+        "AvailableIn": [
+          "US"
+        ]
+      },
+      "LocalKitchenTimer": {
+        "Visible": true,
+        "AvailableIn": [
+          "US"
+        ]
+      },
+      "KitchenTimer": {
+        "Visible": true,
+        "AvailableIn": [
+          "US"
+        ]
+      },
+      "AssistedCooking": {
+        "Visible": true,
+        "AvailableIn": [
+          "US"
+        ]
+      },
+      "CyclesHistory": {
+        "Visible": true,
+        "AvailableIn": [
+          "US",
+          "CA"
+        ]
+      },
+      "MyCreations": {
+        "Visible": true,
+        "AvailableIn": [
+          "US",
+          "CA"
+        ]
+      },
+      "FavoriteCycles": {
+        "Visible": true,
+        "AvailableIn": [
+          "US",
+          "CA"
+        ]
+      },
+      "SabbathMode": {
+        "Visible": true,
+        "AvailableIn": [
+          "US",
+          "CA"
+        ]
+      },
+      "DishFilterStatus": {
+        "Visible": true,
+        "AvailableIn": [
+          "US",
+          "CA"
+        ]
+      }
+    },
+    "Validators": {
+      "FirstNameValidator": {
+        "Regex": "^.{2,256}$",
+        "Description": "SignUp FirstName",
+        "ErrorDescription": 
+      },
+      "LastNameNameValidator": {
+        "Regex": "^.{2,256}$",
+        "Description": "SignUp LastName"
+      },
+      "EmailValidator": {
+        "Regex": "^[a-zA-Z0-9\\+\\.\\_\\%\\-]{1,256}\\@[a-zA-Z0-9][a-zA-Z0-9\\-]{0,64}(\\.[a-zA-Z0-9][a-zA-Z0-9\\-]{0,25})$",
+        "Description": "SignUp Email"
+      },
+      "AccountPasswordValidator": {
+        "Regex": "(?=^.{8,60}$)(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)(?!.*\\s).*$",
+        "Description": "SignUp Password"
+      },
+      "LocationNameValidator": {
+        "Regex": "^.{1,256}$",
+        "Description": "SignUp Location Name"
+      },
+      "Address1Validator": {
+        "Regex": "^.{2,256}$",
+        "Description": "SignUp AddressLine1"
+      },
+      "CityValidator": {
+        "Regex": "^.{2,256}$",
+        "Description": "SignUp City"
+      },
+      "ZipCodeValidator": {
+        "Regex": "^(\\d{5}(-\\d{4})?|[A-CEGHJ-NPRSTVXY]\\d[A-CEGHJ-NPRSTV-Z] ?\\d[A-CEGHJ-NPRSTV-Z]\\d)$",
+        "Description": "SignUp Zipcode"
+      },
+      "MobilePhoneValidator": {
+        "Regex": "^\\d{10}$",
+        "Description": "Signup Mobile Phone"
+      },
+      "SAIDValidator": {
+        "Regex": "^\\bWPR[a-zA-Z0-9]{10}|[a-zA-Z0-9]{13}$",
+        "Description": "Scan to Connect SAID"
+      },
+      "MACIDValidator": {
+        "Regex": "^[a-fA-F0-9]{12}$",
+        "Description": "Scan to Connect MAC ID"
+      },
+      "InviteFirstNameValidator": {
+        "Regex": "^.{1,256}$",
+        "Description": "Invite User First Name"
+      },
+      "InviteLastNameValidator": {
+        "Regex": "^.{1,256}$",
+        "Description": "Invite User Last Name"
+      },
+      "InviteEmailValidator": {
+        "Regex": "^[a-zA-Z0-9\\+\\.\\_\\%\\-]{1,256}\\@[a-zA-Z0-9][a-zA-Z0-9\\-]{0,64}(\\.[a-zA-Z0-9][a-zA-Z0-9\\-]{0,25})$",
+        "Description": "Invite User Email"
+      },
+      "ResetPasswordValidator": {
+        "Regex": "^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d).{9,60}$",
+        "Description": "Reset Password Validator"
+      }
+    }
+  }
+}
