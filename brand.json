@@ -284,8 +284,7 @@
     "Validators": {
       "FirstNameValidator": {
         "Regex": "^.{2,256}$",
-        "Description": "SignUp FirstName",
-        "ErrorDescription": 
+        "Description": "SignUp FirstName" 
       },
       "LastNameNameValidator": {
         "Regex": "^.{2,256}$",
@@ -293,11 +292,13 @@
       },
       "EmailValidator": {
         "Regex": "^[a-zA-Z0-9\\+\\.\\_\\%\\-]{1,256}\\@[a-zA-Z0-9][a-zA-Z0-9\\-]{0,64}(\\.[a-zA-Z0-9][a-zA-Z0-9\\-]{0,25})$",
-        "Description": "SignUp Email"
+        "Description": "SignUp Email",
+		"ErrorDescription": "Please enter a valid email address"
       },
       "AccountPasswordValidator": {
         "Regex": "(?=^.{8,60}$)(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)(?!.*\\s).*$",
-        "Description": "SignUp Password"
+        "Description": "SignUp Password",
+		"ErrorDescription": "Please enter a valid password"
       },
       "LocationNameValidator": {
         "Regex": "^.{1,256}$",
@@ -313,7 +314,8 @@
       },
       "ZipCodeValidator": {
         "Regex": "^(\\d{5}(-\\d{4})?|[A-CEGHJ-NPRSTVXY]\\d[A-CEGHJ-NPRSTV-Z] ?\\d[A-CEGHJ-NPRSTV-Z]\\d)$",
-        "Description": "SignUp Zipcode"
+        "Description": "SignUp Zipcode",
+		"ErrorDescription": "Please enter a valid zipcode"
       },
       "MobilePhoneValidator": {
         "Regex": "^\\d{10}$",
@@ -321,11 +323,13 @@
       },
       "SAIDValidator": {
         "Regex": "^\\bWPR[a-zA-Z0-9]{10}|[a-zA-Z0-9]{13}$",
-        "Description": "Scan to Connect SAID"
+        "Description": "Scan to Connect SAID",
+		"ErrorDescription": "The codes entered are invalid.Please check the QR code sticker for the codes and try again."
       },
       "MACIDValidator": {
         "Regex": "^[a-fA-F0-9]{12}$",
-        "Description": "Scan to Connect MAC ID"
+        "Description": "Scan to Connect MAC ID",
+		"ErrorDescription": "The codes entered are invalid.Please check the QR code sticker for the codes and try again."
       },
       "InviteFirstNameValidator": {
         "Regex": "^.{1,256}$",
@@ -337,11 +341,13 @@
       },
       "InviteEmailValidator": {
         "Regex": "^[a-zA-Z0-9\\+\\.\\_\\%\\-]{1,256}\\@[a-zA-Z0-9][a-zA-Z0-9\\-]{0,64}(\\.[a-zA-Z0-9][a-zA-Z0-9\\-]{0,25})$",
-        "Description": "Invite User Email"
+        "Description": "Invite User Email",
+		"ErrorDescription": "Please enter a valid password"
       },
       "ResetPasswordValidator": {
-        "Regex": "^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d).{9,60}$",
-        "Description": "Reset Password Validator"
+        "Regex": "(?=^.{8,60}$)(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)(?!.*\\s).*$",
+        "Description": "Reset Password Validator",
+		"ErrorDescription": "Please enter a valid password"
       }
     }
   }
