@@ -1,0 +1,34 @@
+{
+  "Header": {
+    "title": "FeaturesInfo_USeng",
+    "version": "1.0",
+    "createdAt": "Oct 22, 2018 6:30:00 PM",
+    "modifiedDate": "Oct 22, 2018 6:30:00 PM",
+    "createdBy": "Venkat Boddapati",
+    "Description": ""
+  },
+  "Data": {
+    "features": [
+      {
+        "featureName": "Remote Access",
+        "featureImage": "NAR/JENNAIR/MOBILEAPP/Images/LearnMore/RemoteAccess@{size}.png",
+        "featureDescription": "Easily scan to connect select appliances, and connect to WiFi for real-time notifications, access to guides and manuals, personalized settings or control of your appliance from anywhere. Tap and swipe on both iOS and Android devices. "
+      },
+      {
+        "featureName": "Smart Integration",
+        "featureImage": "NAR/JENNAIR/MOBILEAPP/Images/LearnMore/SmartIntegration@{size}.png",
+        "featureDescription": "Use voice commands with a compatible Alexa-enabled device or the Google Assistant to get updates or control select appliances. Set Nest Learning Thermostats® to react to rising oven temperatures."
+      },
+      {
+        "featureName": "Culinary Intelligence",
+        "featureImage": "NAR/JENNAIR/MOBILEAPP/Images/LearnMore/CulinaryIntelligence@{size}.png",
+        "featureDescription": "You'll indulge in culinary adventures tailored precisely to your preferences with step-by-step Assisted Cooking, My Creations, timers and more for select appliances."
+      },
+      {
+        "featureName": "On-Demand Experts",
+        "featureImage": "NAR/JENNAIR/MOBILEAPP/Images/LearnMore/OnDemandExperts@{size}.png",
+        "featureDescription": "Connect with the JennAir Epicenter with a call to tap into the brilliant minds of experts who know JennAir® appliances inside and out. Receive diagnostic codes on the app and they’ll deploy service targeted to your appliance’s best interest. Quick access to schedule service link"
+      }
+    ]
+  }
+}
