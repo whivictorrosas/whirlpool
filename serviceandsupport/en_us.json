@@ -1,0 +1,18 @@
+{
+  "Header": {
+    "title": "ServiceAndSupport_USeng",
+    "version": "1.0",
+    "createdAt": "June 4, 2019 6:30:00 PM",
+    "modifiedDate": "June 4, 2019 6:30:00 PM",
+    "createdBy": "Venkat Boddapati",
+    "Description": ""
+  },
+  "Data": {
+    "CXCDetail": {
+      "Country": "US",
+      "Email": "NAR_JennAirCustomerExperience@JennAir.com",
+      "Phone": "1-800-536-6247",
+      "Hours": "Mon–Fri 8am–8pm EST"
+    }
+  }
+}
