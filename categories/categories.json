@@ -547,12 +547,7 @@
         ],
         "DateTime": [
           "DelayTime"
-        ],
-        "ProbeTemperature": [
-          "ProbeTargetTemp"
-        ],
-        "TempDisplayUnit143": "SystemSettings_TempDisplayUnits",
-        "TempDisplayUnit144": "Sys_DisplaySetTempUnits"
+        ]
       }
     
 	}
