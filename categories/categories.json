@@ -1,9 +1,9 @@
 {
   "Header": {
     "title": "CategoriesConfig",
-    "version": "1.3",
+    "version": "1.0",
     "createdAt": "Oct 22, 2018 6:30:00 PM",
-    "modifiedDate": "June 06, 2019 3:30:00 PM",
+    "modifiedDate": "July 01, 2019 3:30:00 PM",
     "createdBy": "Venkat Boddapati",
     "Description": ""
   },
@@ -432,6 +432,129 @@
         "DateTime": [
         ]
       }
-    }
+    },
+	"FabricCare": {
+	 "Features": {
+        "ControlLock": {
+          "Visible": true,
+          "AvailableIn": [
+            "US",
+            "CA"
+          ]
+        },
+        "RemoteStatus": {
+          "Visible": true,
+          "ReadOnly": true,
+          "AvailableIn": [
+            "US",
+            "CA"
+          ]
+        },
+        "Notifications": {
+          "Visible": true,
+          "AvailableIn": [
+            "US",
+            "CA"
+          ]
+        },
+        "FaultCodes": {
+          "Visible": true,
+          "AvailableIn": [
+            "US",
+            "CA"
+          ]
+        },
+        "ChangeApplianceLanguage": {
+          "Visible": true,
+          "AvailableIn": [
+            "US",
+            "CA"
+          ]
+        },
+        "ChangeSoundKeyAlert": {
+          "Visible": true,
+          "AvailableIn": [
+            "US",
+            "CA"
+          ]
+        },
+        "ChangeSoundKeyPress": {
+          "Visible": true,
+          "AvailableIn": [
+            "US",
+            "CA"
+          ]
+        },
+        "ChangeDisplayOnOffStatus": {
+          "Visible": true,
+          "AvailableIn": [
+            "US",
+            "CA"
+          ]
+        },
+        "ChangeBrightness": {
+          "Visible": true,
+          "AvailableIn": [
+            "US",
+            "CA"
+          ]
+        },
+        "QuietMode": {
+          "Visible": true,
+          "AvailableIn": [
+            "US",
+            "CA"
+          ]
+        },
+        "SetCycle": {
+          "Visible": true,
+          "AvailableIn": [
+            "US",
+			"CA"
+          ]
+        },
+        "CyclesHistory": {
+          "Visible": true,
+          "AvailableIn": [
+            "US",
+            "CA"
+          ]
+        },
+        "FavoriteCycles": {
+          "Visible": true,
+          "AvailableIn": [
+            "US",
+            "CA"
+          ]
+        },
+        "ApplianceDocuments": {
+          "Visible": true,
+          "AvailableIn": [
+            "US",
+            "CA"
+          ]
+        }
+      },
+      "ConversionMapping": {
+        "Time": [
+          "SetTime",
+          "TimeSet",
+          "TimeElapsed",
+          "TimeRemaining"
+        ],
+        "Temperature": [
+          "Temp"
+        ],
+        "DateTime": [
+          "DelayTime"
+        ],
+        "ProbeTemperature": [
+          "ProbeTargetTemp"
+        ],
+        "TempDisplayUnit143": "SystemSettings_TempDisplayUnits",
+        "TempDisplayUnit144": "Sys_DisplaySetTempUnits"
+      }
+    
+	}
   }
 }
