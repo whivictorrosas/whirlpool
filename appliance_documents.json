@@ -1,266 +1,158 @@
 {
-  "Header": {
-    "title": "ApplianceDocuments",
-    "version": "1.0",
-    "createdAt": "MAR 22, 2019 6:30:00 PM",
-    "modifiedDate": "",
-    "createdBy": "Venkat Boddapati",
-    "Description": "COPIED FROM JA, REPLACE THIS WITH THE ACTUAL FILE WHEN NEEDED, THIS IS JUST FOR TESTING"
-  },
-  "Data": {
-    "Manuals": {
-      "DDM_COOKING_Loki_JA_V1": [
-        {
-          "Title": "Use & Care Guide",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_Loki_JA_V1/Docs/eng/UserCareGuide.pdf"
-        },
-        {
-          "Title": "Installation Instructions",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_Loki_JA_V1/Docs/eng/InstallationInstruction.pdf"
-        },
-        {
-          "Title": "Warranty",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_Loki_JA_V1/Docs/eng/Warranty.pdf"
-        },
-        {
-          "Title": "FCC Information Form",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_Loki_JA_V1/Docs/eng/FccInformation.pdf"
-        }
-      ],
-      "DDM_Cooking_Minerva_Combo_V1": [
-        {
-          "Title": "FCC Information Form",
-          "FilePath": "NAR/JENNAIR/DDM_Cooking_Minerva_Combo_V1/Docs/eng/Minerva_FCC.pdf"
-        }
-      ],
-      "DDM_Cooking_Minerva_Double_V1": [
-        {
-          "Title": "FCC Information Form",
-          "FilePath": "NAR/JENNAIR/DDM_Cooking_Minerva_Double_V1/Docs/eng/Minerva_FCC.pdf"
-        }
-      ],
-      "DDM_Cooking_Minerva_Single_V1": [
-        {
-          "Title": "FCC Information Form",
-          "FilePath": "NAR/JENNAIR/DDM_Cooking_Minerva_Single_V1/Docs/eng/Minerva_FCC.pdf"
-        }
-      ],
-      "DDM_COOKING_U2_JADoubleDuelFuel_V1": [
-        {
-          "Title": "Use & Care Guide",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_U2_JADoubleSteam_V1/Docs/eng/UserCareGuide.pdf"
-        },
-        {
-          "Title": "Installation Instructions",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_U2_JADoubleSteam_V1/Docs/eng/InstallationInstruction.pdf"
-        },
-        {
-          "Title": "Warranty",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_U2_JADoubleSteam_V1/Docs/eng/Warranty.pdf"
-        },
-        {
-          "Title": "FCC Information Form",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_U2_JADoubleSteam_V1/Docs/eng/FccInformation.pdf"
-        }
-      ],
-      "DDM_COOKING_U2_JASingleDuelFuel_V1": [
-        {
-          "Title": "Use & Care Guide",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_U2_JASingleDuelFuel_V1/Docs/eng/UserCareGuide.pdf"
-        },
-        {
-          "Title": "Installation Instructions",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_U2_JASingleDuelFuel_V1/Docs/eng/InstallationInstruction.pdf"
-        },
-        {
-          "Title": "Warranty",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_U2_JASingleDuelFuel_V1/Docs/eng/Warranty.pdf"
-        },
-        {
-          "Title": "FCC Information Form",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_U2_JASingleDuelFuel_V1/Docs/eng/FccInformation.pdf"
-        }
-      ],
-      "DDM_COOKING_U2_JASingleGas_V1": [
-        {
-          "Title": "Use & Care Guide",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_U2_JASingleGas_V1/Docs/eng/UserCareGuide.pdf"
-        },
-        {
-          "Title": "Installation Instructions",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_U2_JASingleGas_V1/Docs/eng/InstallationInstruction.pdf"
-        },
-        {
-          "Title": "Warranty",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_U2_JASingleGas_V1/Docs/eng/Warranty.pdf"
-        },
-        {
-          "Title": "FCC Information Form",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_U2_JASingleGas_V1/Docs/eng/FccInformation.pdf"
-        }
-      ],
-      "DDM_COOKING_U2_JADoubleSteam_V1": [
-        {
-          "Title": "Use & Care Guide",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_U2_JADoubleSteam_V1/Docs/eng/UserCareGuide.pdf"
-        },
-        {
-          "Title": "Installation Instructions",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_U2_JADoubleSteam_V1/Docs/eng/InstallationInstruction.pdf"
-        },
-        {
-          "Title": "Warranty",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_U2_JADoubleSteam_V1/Docs/eng/Warranty.pdf"
-        },
-        {
-          "Title": "FCC Information Form",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_U2_JADoubleSteam_V1/Docs/eng/FccInformation.pdf"
-        }
-      ],
-      "DDM_COOKING_U2_JASingleSteam_V1": [
-        {
-          "Title": "Use & Care Guide",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_U2_JASingleSteam_V1/Docs/eng/UserCareGuide.pdf"
-        },
-        {
-          "Title": "Installation Instructions",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_U2_JASingleSteam_V1/Docs/eng/InstallationInstruction.pdf"
-        },
-        {
-          "Title": "Warranty",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_U2_JASingleSteam_V1/Docs/eng/Warranty.pdf"
-        },
-        {
-          "Title": "FCC Information Form",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_U2_JASingleSteam_V1/Docs/eng/FccInformation.pdf"
-        }
-      ],
-      "DDM_COOKING_U2_JADoubleGas_V1": [
-        {
-          "Title": "Use & Care Guide",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_U2_JADoubleGas_V1/Docs/eng/UserCareGuide.pdf"
-        },
-        {
-          "Title": "Installation Instructions",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_U2_JADoubleGas_V1/Docs/eng/InstallationInstruction.pdf"
-        },
-        {
-          "Title": "Warranty",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_U2_JADoubleGas_V1/Docs/eng/Warranty.pdf"
-        },
-        {
-          "Title": "FCC Information Form",
-          "FilePath": "NAR/JENNAIR/DDM_COOKING_U2_JADoubleGas_V1/Docs/eng/FccInformation.pdf"
-        }
-      ],
-      "DDM_DISHWASHER_JA_DISH17_246_V1": [
-        {
-          "Title": "Warranty",
-          "FilePath": "NAR/JENNAIR/DDM_DISHWASHER_JA_DISH17_246_V1/Docs/eng/JA_DISH17_Warranty.pdf"
-        },
-        {
-          "Title": "Use & Care Guide",
-          "FilePath": "NAR/JENNAIR/DDM_DISHWASHER_JA_DISH17_246_V1/Docs/eng/JA_DISH17_Use_Careguide.pdf"
-        },
-        {
-          "Title": "Installation Instructions",
-          "FilePath": "NAR/JENNAIR/DDM_DISHWASHER_JA_DISH17_246_V1/Docs/eng/JA_DISH17_InstallationInstructions.pdf"
-        },
-        {
-          "Title": "FCC Information Form",
-          "FilePath": "NAR/JENNAIR/DDM_DISHWASHER_JA_DISH17_246_V1/Docs/eng/JA_DISH17_FCC.pdf"
-        }
-      ],
-      "DDM_DISHWASHER_JA_DISH17_244_V1": [
-        {
-          "Title": "Warranty",
-          "FilePath": "NAR/JENNAIR/DDM_DISHWASHER_JA_DISH17_244_V1/Docs/eng/JA_DISH17_Warranty.pdf"
-        },
-        {
-          "Title": "Use & Care Guide",
-          "FilePath": "NAR/JENNAIR/DDM_DISHWASHER_JA_DISH17_244_V1/Docs/eng/JA_DISH17_Use_Careguide.pdf"
-        },
-        {
-          "Title": "Installation Instructions",
-          "FilePath": "NAR/JENNAIR/DDM_DISHWASHER_JA_DISH17_244_V1/Docs/eng/JA_DISH17_InstallationInstructions.pdf"
-        },
-        {
-          "Title": "FCC Information Form",
-          "FilePath": "NAR/JENNAIR/DDM_DISHWASHER_JA_DISH17_244_V1/Docs/eng/JA_DISH17_FCC.pdf"
-        }
-      ],
-      "DDM_Refrigerator_JA_Bella_V1": [
-        {
-          "Title": "Use & Care Guide",
-          "FilePath": "NAR/JENNAIR/DDM_Refrigerator_JA_Bella_V1/Docs/eng/Refrigerator_Use_and_Care_Guide.pdf"
-        },
-        {
-          "Title": "Warranty",
-          "FilePath": "NAR/JENNAIR/DDM_Refrigerator_JA_Bella_V1/Docs/eng/Refrigerator_Warranty.pdf"
-        },
-        {
-          "Title": "Installation Instructions",
-          "FilePath": "NAR/JENNAIR/DDM_Refrigerator_JA_Bella_V1/Docs/eng/Refrigerator_Installation_Instructions.pdf"
-        },
-        {
-          "Title": "FCC Information Form",
-          "FilePath": "NAR/JENNAIR/DDM_Refrigerator_JA_Bella_V1/Docs/eng/Refrigerator_FCC.pdf"
-        }
-      ],
-      "DDM_Refrigerator_JA_Bella_V2": [
-        {
-          "Title": "Use & Care Guide",
-          "FilePath": "NAR/JENNAIR/DDM_Refrigerator_JA_Bella_V2/Docs/eng/Refrigerator_Use_and_Care_Guide.pdf"
-        },
-        {
-          "Title": "Warranty",
-          "FilePath": "NAR/JENNAIR/DDM_Refrigerator_JA_Bella_V2/Docs/eng/Refrigerator_Warranty.pdf"
-        },
-        {
-          "Title": "Installation Instructions",
-          "FilePath": "NAR/JENNAIR/DDM_Refrigerator_JA_Bella_V2/Docs/eng/Refrigerator_Installation_Instructions.pdf"
-        },
-        {
-          "Title": "FCC Information Form",
-          "FilePath": "NAR/JENNAIR/DDM_Refrigerator_JA_Bella_V2/Docs/eng/Refrigerator_FCC.pdf"
-        }
-      ],
-      "DDM_REFRIGERATOR_OBERON_FREEZER_V1": [
-        {
-          "Title": "Warranty",
-          "FilePath": "NAR/JENNAIR/DDM_REFRIGERATOR_OBERON_FREEZER_V1/Docs/eng/Freezer_Warranty.pdf"
-        },
-        {
-          "Title": "Use & Care Guide",
-          "FilePath": "NAR/JENNAIR/DDM_REFRIGERATOR_OBERON_FREEZER_V1/Docs/eng/Freezer_Use_and_Care_Guide.pdf"
-        },
-        {
-          "Title": "Installation Instructions",
-          "FilePath": "NAR/JENNAIR/DDM_REFRIGERATOR_OBERON_FREEZER_V1/Docs/eng/Freezer_Installation_Instructions.pdf"
-        },
-        {
-          "Title": "FCC Information Form",
-          "FilePath": "NAR/JENNAIR/DDM_REFRIGERATOR_OBERON_FREEZER_V1/Docs/eng/Freezer_FCC.pdf"
-        }
-      ],
-      "DDM_REFRIGERATOR_OBERON_FRIDGE_V1": [
-        {
-          "Title": "Warranty",
-          "FilePath": "NAR/JENNAIR/DDM_REFRIGERATOR_OBERON_FRIDGE_V1/Docs/eng/Refrigerator_Warranty.pdf"
-        },
-        {
-          "Title": "Use & Care Guide",
-          "FilePath": "NAR/JENNAIR/DDM_REFRIGERATOR_OBERON_FRIDGE_V1/Docs/eng/Refrigerator_Use_and_Care_Guide.pdf"
-        },
-        {
-          "Title": "Installation Instructions",
-          "FilePath": "NAR/JENNAIR/DDM_REFRIGERATOR_OBERON_FRIDGE_V1/Docs/eng/Refrigerator_Installation_Instructions.pdf"
-        },
-        {
-          "Title": "FCC Information Form",
-          "FilePath": "NAR/JENNAIR/DDM_REFRIGERATOR_OBERON_FRIDGE_V1/Docs/eng/Refrigerator_FCC.pdf"
-        }
-      ]
-    }
-  }
+	"Header": {
+		"title": "ApplianceDocuments",
+		"version": "1.0",
+		"createdAt": "MAR 22, 2019 6:30:00 PM",
+		"modifiedDate": "",
+		"createdBy": "Venkat Boddapati",
+		"Description": ""
+	},
+	"Data": {
+		"Manuals": {
+			"DDM_LAUNDRY_RADIANT_NAR_COMBO_V1": [{
+					"Title": "Warranty",
+					"FilePath": "NAR/WHIRLPOOL/DDM_LAUNDRY_RADIANT_NAR_COMBO_V1/DOCS/ENG/W11114293A_Install_UseCare_Warranty_WFC8090GX_RADIANT.pdf"
+				},
+				{
+					"Title": "Use & Care Guide",
+					"FilePath": "NAR/WHIRLPOOL/DDM_LAUNDRY_RADIANT_NAR_COMBO_V1/DOCS/ENG/W11114293A_Install_UseCare_Warranty_WFC8090GX_RADIANT.pdf"
+				},
+				{
+					"Title": "Installation Instructions",
+					"FilePath": "NAR/WHIRLPOOL/DDM_LAUNDRY_RADIANT_NAR_COMBO_V1/DOCS/ENG/W11114293A_Install_UseCare_Warranty_WFC8090GX_RADIANT.pdf"
+				},
+				{
+					"Title": "Dimension Guide",
+					"FilePath": "NAR/WHIRLPOOL/DDM_LAUNDRY_RADIANT_NAR_COMBO_V1/DOCS/ENG/W11114293A_Install_UseCare_Warranty_WFC8090GX_RADIANT.pdf"
+				},
+				{
+					"Title": "Quick Reference Guide",
+					"FilePath": "NAR/WHIRLPOOL/DDM_LAUNDRY_RADIANT_NAR_COMBO_V1/DOCS/ENG/W11132544AQuickReferenceWFC8090GX_RADIANT.pdf"
+				}
+			],
+			"DDM_LAUNDRY_JANUS_WASHER_INDIGO_WHIRLPOOL_DVT_V1": [
+
+				{
+					"Title": "Use and Care Guide",
+					"FilePath": "NAR/WHIRLPOOL/DDM_LAUNDRY_JANUS_WASHER_INDIGO_WHIRLPOOL_DVT_V1/DOCS/ENG/W11339488A.pdf"
+				},
+				{
+					"Title": "Installation Instructions",
+					"FilePath": "NAR/WHIRLPOOL/DDM_LAUNDRY_JANUS_WASHER_INDIGO_WHIRLPOOL_V1/DOCS/ENG/W11156977A.pdf"
+				},
+				{
+					"Title": "Quick Reference Guide",
+					"FilePath": "NAR/WHIRLPOOL/DDM_LAUNDRY_JANUS_WASHER_INDIGO_WHIRLPOOL_DVT_V1/DOCS/ENG/W11339711A.pdf"
+				}
+			],
+			"DDM_LAUNDRY_JANUS_WASHER_INDIGO_WHIRLPOOL_V1": [{
+					"Title": "Use and Care Guide",
+					"FilePath": "NAR/WHIRLPOOL/DDM_LAUNDRY_JANUS_WASHER_INDIGO_WHIRLPOOL_V1/DOCS/ENG/W11201742A.pdf"
+				},
+				{
+					"Title": "Installation Instructions",
+					"FilePath": "NAR/WHIRLPOOL/DDM_LAUNDRY_JANUS_WASHER_INDIGO_WHIRLPOOL_V1/DOCS/ENG/W11156977A.pdf"
+				},
+				{
+					"Title": "Quick Reference Guide",
+					"FilePath": "NAR/WHIRLPOOL/DDM_LAUNDRY_JANUS_WASHER_INDIGO_WHIRLPOOL_V1/DOCS/ENG/W11219943A.pdf"
+				}
+			],
+			"DDM_Washer_V10K_V1": [{
+					"Title": "FCC Information Form",
+					"FilePath": "NAR/WHIRLPOOL/DDM_Washer_V10K_V1/Docs/eng/FCC_Information_Form.pdf"
+				},
+				{
+					"Title": "Use & Care Guide",
+					"FilePath": "NAR/WHIRLPOOL/DDM_Washer_V10K_V1/Docs/eng/Washer_Use_and_Care_Guide.pdf"
+				},
+				{
+					"Title": "Installation Instructions",
+					"FilePath": "NAR/WHIRLPOOL/DDM_Washer_V10K_V1/Docs/eng/Washer_Installation_Guide.pdf"
+				}
+			],
+			"DDM_Washer_SmartGrid_V1": [{
+					"Title": "Use & Care Guide",
+					"FilePath": "NAR/WHIRLPOOL/DDM_Washer_SmartGrid_V1/Docs/eng/Washer_Use_and_Care_Guide.pdf"
+				},
+				{
+					"Title": "Smart Supplement",
+					"FilePath": "NAR/WHIRLPOOL/DDM_Washer_SmartGrid_V1/Docs/eng/Washer_Smart_Supplement.pdf"
+				},
+				{
+					"Title": "Smart Start Guide",
+					"FilePath": "NAR/WHIRLPOOL/DDM_Washer_SmartGrid_V1/Docs/eng/SmartStartGuide.pdf"
+				},
+				{
+					"Title": "FCC Information Form",
+					"FilePath": "NAR/WHIRLPOOL/DDM_Washer_SmartGrid_V1/Docs/eng/FCC_Information_Form.pdf"
+				},
+				{
+					"Title": "Installation Instructions",
+					"FilePath": "NAR/WHIRLPOOL/DDM_Washer_SmartGrid_V1/Docs/eng/Washer_Installation_Guide.pdf"
+				}
+			],
+			"DDM_LAUNDRY_VMAX20_WHIRLPOOL_DRYER8_V1": [{
+					"Title": "Use and Care Guide",
+					"FilePath": ""
+				},
+				{
+					"Title": "Installation Instructions",
+					"FilePath": ""
+				},
+				{
+					"Title": "Quick Reference Guide",
+					"FilePath": ""
+				}
+			],
+			"DDM_LAUNDRY_VMAX20_WHIRLPOOL_WASHER_V1": [],
+			"DDM_LAUNDRY_JANUS_DRYER_INDIGO_WHIRLPOOL_V1": [{
+					"Title": "Use and Care Guide",
+					"FilePath": "NAR/WHIRLPOOL/DDM_LAUNDRY_JANUS_DRYER_INDIGO_WHIRLPOOL_V1/DOCS/ENG/W11204389A.pdf"
+				},
+				{
+					"Title": "Installation Instructions",
+					"FilePath": "NAR/WHIRLPOOL/DDM_LAUNDRY_JANUS_DRYER_INDIGO_WHIRLPOOL_V1/DOCS/ENG/W11183136A.pdf"
+				},
+				{
+					"Title": "Quick Reference Guide",
+					"FilePath": "NAR/WHIRLPOOL/DDM_LAUNDRY_JANUS_DRYER_INDIGO_WHIRLPOOL_V1/DOCS/ENG/W11184897A.pdf"
+				}
+			],
+			"DDM_Dryer_V10K_V1": [{
+					"Title": "FCC Information Form",
+					"FilePath": "NAR/WHIRLPOOL/DDM_Dryer_V10K_V1/Docs/eng/FCC_Information_Form.pdf"
+				},
+				{
+					"Title": "Use & Care Guide",
+					"FilePath": "NAR/WHIRLPOOL/DDM_Dryer_V10K_V1/Docs/eng/Dryer_Use_and_Care_Guide.pdf"
+				},
+				{
+					"Title": "Installation Instructions",
+					"FilePath": "NAR/WHIRLPOOL/DDM_Dryer_V10K_V1/Docs/eng/Dryer_Installation_Guide.pdf"
+				}
+			],
+			"DDM_Dryer_SmartGrid_V1": [{
+					"Title": "Use & Care Guide",
+					"FilePath": "NAR/WHIRLPOOL/DDM_Dryer_SmartGrid_V1/Docs/eng/Dryer_Use_and_Care_Guide.pdf"
+				},
+				{
+					"Title": "Smart Supplement",
+					"FilePath": "NAR/WHIRLPOOL/DDM_Dryer_SmartGrid_V1/Docs/eng/Dryer_Smart_Supplement.pdf"
+				},
+				{
+					"Title": "Smart Start Guide",
+					"FilePath": "NAR/WHIRLPOOL/DDM_Dryer_SmartGrid_V1/Docs/eng/SmartStartGuide.pdf"
+				},
+				{
+					"Title": "FCC Information Form",
+					"FilePath": "NAR/WHIRLPOOL/DDM_Dryer_SmartGrid_V1/Docs/eng/FCC_Information_Form.pdf"
+				},
+				{
+					"Title": "Installation Instructions",
+					"FilePath": "NAR/WHIRLPOOL/DDM_Dryer_SmartGrid_V1/Docs/eng/Dryer_Installation_Guide.pdf"
+				}
+			]
+		}
+	}
 }
