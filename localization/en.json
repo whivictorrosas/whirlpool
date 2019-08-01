@@ -58,5 +58,12 @@
     "kSaidInfo3XRefrigerator": "The SAID is a unique identification number for your appliance. On the Refrigerator, it is located on top of the interior refrigerator control settings on the right-hand side. Here is an example of what the label looks like.",
     "kConnectInfo3XRefrigerator": "An indicator light on the router will begin blinking, this means the router is looking for other devices to connect to. Within 2 minutes, press and hold [Cubed Ice] and [Crushed Ice] buttons together for 3 seconds on dispenser display.",
     "kClearInfo3XRefrigerator": "An indicator light on the router will begin blinking, this means the router is looking for other devices to connect to. Within 2 minutes, press and hold [Cubed Ice] and [Crushed Ice] buttons together for 3 seconds on dispenser display."
+    "settings.contact_support.contact_support":"CONTACT SUPPORT",
+"settings.contact_support.contact_support_details":"Questions or comments? You can reach us by making a call to this number: 1-800-JENNAIR.",
+"settings.contact_support.call":"CALL",
+"settings.contact_support.close":"CLOSE",
+"s2c.register_failed.register_failed":"Register Failed",
+"s2c.register_failed.register_failed_details":"This appliance has already been claimed to another account. To begin adding it to your account, enter the serial number.",
+"s2c.register_failed.exit":"EXIT",
   }
 }
