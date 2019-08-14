@@ -9,43 +9,43 @@
 	},
 	"Data": {
 		"DDM_LAUNDRY_RADIANT_NAR_COMBO_V1": {
-			"CareTipCareTipTitle": "kCareTipTitle",
+			"CareTipTitle": "kCareTipTitle",
 			"CareTipContent": "kCareTipContent"
 		},
 		"DDM_LAUNDRY_JANUS_WASHER_INDIGO_WHIRLPOOL_DVT_V1": {
-			"CareTipCareTipTitle": "kCareTipTitle",
+			"CareTipTitle": "kCareTipTitle",
 			"CareTipContent": "kCareTipContent"
 		},
 		"DDM_LAUNDRY_JANUS_WASHER_INDIGO_WHIRLPOOL_V1": {
-			"CareTipCareTipTitle": "kCareTipTitle",
+			"CareTipTitle": "kCareTipTitle",
 			"CareTipContent": "kCareTipContent"
 		},
 		"DDM_Washer_V10K_V1": {
-			"CareTipCareTipTitle": "kCareTipTitle",
+			"CareTipTitle": "kCareTipTitle",
 			"CareTipContent": "kCareTipContent"
 		},
 		"DDM_Washer_SmartGrid_V1": {
-			"CareTipCareTipTitle": "kCareTipTitle",
+			"CareTipTitle": "kCareTipTitle",
 			"CareTipContent": "kCareTipContent"
 		},
 		"DDM_LAUNDRY_VMAX20_WHIRLPOOL_DRYER8_V1": {
-			"CareTipCareTipTitle": "kCareTipTitle",
+			"CareTipTitle": "kCareTipTitle",
 			"CareTipContent": "kCareTipContent"
 		},
 		"DDM_LAUNDRY_VMAX20_WHIRLPOOL_WASHER_V1": {
-		"CareTipCareTipTitle": "kCareTipTitle",
+		"CareTipTitle": "kCareTipTitle",
 			"CareTipContent": "kCareTipContent"
 		},
 		"DDM_LAUNDRY_JANUS_DRYER_INDIGO_WHIRLPOOL_V1": {
-			"CareTipCareTipTitle": "kCareTipTitle",
+			"CareTipTitle": "kCareTipTitle",
 			"CareTipContent": "kCareTipContent"
 		},
 		"DDM_Dryer_V10K_V1": {
-			"CareTipCareTipTitle": "kCareTipTitle",
+			"CareTipTitle": "kCareTipTitle",
 			"CareTipContent": "kCareTipContent"
 		},
 		"DDM_Dryer_SmartGrid_V1": {
-			"CareTipCareTipTitle": "kCareTipTitle",
+			"CareTipTitle": "kCareTipTitle",
 			"CareTipContent": "kCareTipContent"
 		}
 	}
