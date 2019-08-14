@@ -1,281 +1,52 @@
 {
-  "Header": {
-    "title": "caretipConfig.json",
-    "version": "1.0",
-    "createdAt": "Jul 25, 2018 2:30:00 PM",
-    "modifiedDate": "",
-    "createdBy": "Victor Rosas",
-    "Description": "Whirlpool Care Tip Configuration"
-  },
-  "Data": {
-    "categories": [
-      {
-        "categoryName": "kAirConditioner",
-        "products": [
-          {
-            "productName": "kAirConditioner",
-            "modelNumber": [
-              "WA6078Q",
-              "WA6178Q"
-            ],
-            "careTipCMS": "kAirConditionerCareTip"
-          }
-        ]
-      },
-      {
-        "categoryName": "kWasher",
-        "products": [
-          {
-            "productName": "kWasher",
-            "modelNumber": [
-              "Cabrio - WTW8700EC0",
-              "WTW8700EC1"
-            ],
-            "careTipCMS": "kWasherCareTip"
-          },
-          {
-            "productName": "kWasher",
-            "modelNumber": [
-              "Duet - WFL98HEBU0"
-            ],
-			"careTipCMS": "kWasherCareTip"
-          }
-        ]
-      },
-      {
-        "categoryName": "kDryer",
-        "products": [
-          {
-            "productName": "kDryer",
-            "modelNumber": [
-              "Cabrio - WED8700EC0 (Elec)",
-              "Cabrio - WGD8700EC0 (Gas)"
-            ],
-			"careTipCMS": "kDryerCareTip"
-          },
-          {
-            "productName": "kDryer",
-            "modelNumber": [
-              "Duet - WEL98HEBU0"
-            ],
-			"careTipCMS": "kDryerCareTip"
-          }
-        ]
-      },
-      {
-        "categoryName": "kLaundry",
-        "products": [
-          {
-            "productName": "kLaundry",
-            "modelNumber": [
-              "WFC8090GX",
-              "YWFC8090GX"
-            ],
-			"careTipCMS": "kLaundryCareTip"
-          }
-        ]
-      },
-      {
-        "categoryName": "kDishWasher",
-        "products": [
-          {
-            "productName": "kDishWasher",
-            "modelNumber": [
-              "wdt995safm0",
-              "wdt995safm00",
-              "WDT975SAHZ0"
-            ],
-			"careTipCMS": "kDishWasherCareTip"
-          }
-        ]
-      },
-      {
-        "categoryName": "kMicrowave",
-        "products": [
-          {
-            "productName": "kMicrowave76",
-            "modelNumber": [
-              "WMH78019HW",
-              "WMH78019HB",
-              "WMH78019HZ",
-              "WMH78019HV",
-              "YWMH78019HW",
-              "YWMH78019HB",
-              "YWMH78019HZ",
-              "YWMH78019HV"
-            ],
-            "careTipCMS": "kMicrowave76CareTip"
-          },
-          {
-            "productName": "kMicrowave96",
-            "modelNumber": [
-              "WMHA9019HZ",
-              "WMHA9019HV",
-              "WMHA9019HN",
-              "YWMHA9019HZ",
-              "YWMHA9019HV",
-              "YWMHA9019HN"
-            ],
-			"careTipCMS": "kMicrowave96CareTip"
-          }
-        ]
-      },
-      {
-        "categoryName": "kRange",
-        "products": [
-          {
-            "productName": "kRangeVesta",
-            "productPrefix": "OVEN",
-            "modelNumber": [
-              "WFE975H0H0",
-              "YWFE975H0H0",
-              "WFEA75H0H0",
-              "YWFEA75H0H0",
-              "WFG975H0H0",
-              "WFGA75H0H0",
-              "WFE975H0HV0",
-              "WFE975H0HZ0",
-              "YWFE975H0HV0",
-              "YWFE975H0HZ0",
-              "WFG975H0HV0",
-              "WFG975H0HZ0",
-              "WFE975H0HV",
-              "WFE975H0HZ",
-              "YWFE975H0HV",
-              "YWFE975H0HZ",
-              "WFG975H0HV",
-              "WFG975H0HZ"
-            ],
-			"careTipCMS": "kRangeVestaCareTip"
-          },
-          {
-            "productName": "kRangeVSI",
-            "productPrefix": "OVEN",
-            "modelNumber": [
-              "WEGA50H0H0",
-              "WEE750H0HW0",
-              "WEE750H0HB0",
-              "WEE750H0HZ0",
-              "WEE750H0HV0",
-              "YWEE750H0HW0",
-              "YWEE750H0HB0",
-              "YWEE750H0HZ0",
-              "YWEE750H0HV0",
-              "WEEA25H0HZ0",
-              "WEEA25H0HN0",
-              "YWEEA25H0HZ0",
-              "YWEEA25H0HN0",
-              "WEG750H0HW0",
-              "WEG750H0HB0",
-              "WEG750H0HZ0",
-              "WEG750H0HV0",
-              "WEGA25H0HZ0",
-              "WEGA25H0HN0"
-            ],
-			"careTipCMS": "kRangeVSICareTip"
-          }
-        ]
-      },
-      {
-        "categoryName": "kWallOven",
-        "products": [
-          {
-            "productName": "kWallOvenMinerva",
-            "modelNumber": [
-              "WOS72EC0HS",
-              "WOS72EC0HB",
-              "WOS72EC0HW",
-              "WOS72EC0HV",
-              "WOS72EC7HS",
-              "WOS72EC7HB",
-              "WOS72EC7HV",
-              "WOD77EC0HS",
-              "WOD77EC0HB",
-              "WOD77EC0HW",
-              "WOD77EC0HV",
-              "WOD77EC7HS",
-              "WOD77EC7HB",
-              "WOD77EC7HV",
-              "WOC75EC0HS",
-              "WOC75EC0HB",
-              "WOC75EC0HW",
-              "WOC75EC0HV",
-              "WOC75EC7HS",
-              "WOC75EC7HV",
-              "WOD51EC7HS",
-              "WOD51EC7HB",
-              "WOD51EC7HW",
-              "WOC54EC0HS",
-              "WOC54EC0HB",
-              "WOC54EC0HW",
-              "WOC54EC7HS",
-              "WOC54EC7HB",
-              "WOC54EC7HW",
-              "WOSA2EC0HZ",
-              "WOSA2EC0HN",
-              "WODA7EC0HZ",
-              "WODA7EC0HN",
-              "WOCA7EC0HZ",
-              "WOCA7EC0HN",
-              "WOC97EC0HZ",
-              "WOS97EC0HZ",
-              "WOD97EC0HZ",
-              "WOS51EC0HS",
-              "WOS51EC0HB",
-              "WOS51EC0HW",
-              "WOS51EC7HS",
-              "WOS51EC7HB",
-              "WOS51EC7HW",
-              "WOD51EC0HS",
-              "WOD51EC0HB",
-              "WOD51EC0HW"
-            ],
-			"careTipCMS": "kWallOvenMinerva"
-          }
-        ]
-      },
-      {
-        "categoryName": "kFoodRecycler",
-        "products": [
-          {
-            "productName": "kFoodRecycler",
-            "modelNumber": [
-              "ZFR100UGW0",
-              "ZFR100UGW00"
-            ],
-			"careTipCMS": "kWallOvenMinerva"
-          }
-        ]
-      },
-      {
-        "categoryName": "kCookTop",
-        "products": [
-          {
-            "productName": "kCookTopLoki",
-            "modelNumber": [
-              "WCE97US0",
-              "WCE97US6"
-            ],
-			"careTipCMS": "kWallOvenMinerva"
-          }
-        ]
-      },
-      {
-        "categoryName": "kRefrigerator",
-        "products": [
-          {
-            "productName": "kRefrigerator",
-            "modelNumber": [
-              "GSS26C4XXY0",
-              "WRL767SIAM0",
-              "WRL767SIAM00",
-              "WRF995FIFZ",
-              "WRF995FIFZ01"
-            ],
-			"careTipCMS": "kWallOvenMinerva"
-          }
-        ]
-      }
-    ]
-  }
+	"Header": {
+		"title": "CareTipConfig.json",
+		"version": "0.0",
+		"createdAt": "Jul 25, 2018 2:30:00 PM",
+		"modifiedDate": "",
+		"createdBy": "Victor Rosas",
+		"Description": "Whirlpool Care Tip Configuration"
+	},
+	"Data": {
+		"DDM_LAUNDRY_RADIANT_NAR_COMBO_V1": {
+			"CareTipCareTipTitle": "kCareTipTitle",
+			"CareTipContent": "kCareTipContent"
+		},
+		"DDM_LAUNDRY_JANUS_WASHER_INDIGO_WHIRLPOOL_DVT_V1": {
+			"CareTipCareTipTitle": "kCareTipTitle",
+			"CareTipContent": "kCareTipContent"
+		},
+		"DDM_LAUNDRY_JANUS_WASHER_INDIGO_WHIRLPOOL_V1": {
+			"CareTipCareTipTitle": "kCareTipTitle",
+			"CareTipContent": "kCareTipContent"
+		},
+		"DDM_Washer_V10K_V1": {
+			"CareTipCareTipTitle": "kCareTipTitle",
+			"CareTipContent": "kCareTipContent"
+		},
+		"DDM_Washer_SmartGrid_V1": {
+			"CareTipCareTipTitle": "kCareTipTitle",
+			"CareTipContent": "kCareTipContent"
+		},
+		"DDM_LAUNDRY_VMAX20_WHIRLPOOL_DRYER8_V1": {
+			"CareTipCareTipTitle": "kCareTipTitle",
+			"CareTipContent": "kCareTipContent"
+		},
+		"DDM_LAUNDRY_VMAX20_WHIRLPOOL_WASHER_V1": {
+		"CareTipCareTipTitle": "kCareTipTitle",
+			"CareTipContent": "kCareTipContent"
+		},
+		"DDM_LAUNDRY_JANUS_DRYER_INDIGO_WHIRLPOOL_V1": {
+			"CareTipCareTipTitle": "kCareTipTitle",
+			"CareTipContent": "kCareTipContent"
+		},
+		"DDM_Dryer_V10K_V1": {
+			"CareTipCareTipTitle": "kCareTipTitle",
+			"CareTipContent": "kCareTipContent"
+		},
+		"DDM_Dryer_SmartGrid_V1": {
+			"CareTipCareTipTitle": "kCareTipTitle",
+			"CareTipContent": "kCareTipContent"
+		}
+	}
 }
