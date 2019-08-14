@@ -74,6 +74,12 @@
         "version": "1.0",
         "URL": "NAR/WHIRLPOOL/MOBILEAPP/SmartHome.json",
         "Description": "File which contains All Smart home integrations"
+      },
+	  {
+        "fileName": "CareTipConfig.json",
+        "version": "1.0",
+        "URL": "NAR/WHIRLPOOL/MOBILEAPP/CareTipConfig.json",
+        "Description": "CareTipConfig json file contains CareTip config for appliances "
       }
     ]
   }
