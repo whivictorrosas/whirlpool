@@ -1,86 +1,118 @@
 {
-  "Header": {
-    "title": "Master Configuration",
-    "version": "1.0",
-    "createdAt": "Oct 22, 2018 6:30:00 PM",
-    "modifiedDate": "",
-    "createdBy": "Venkat Boddapati",
-    "Description": ""
-  },
-  "Data": {
-    "Configurations": [
-      {
-        "fileName": "HomeFeed_eng.json",
-        "version": "1.0",
-        "URL": "NAR/WHIRLPOOL/MOBILEAPP/CATEGORIES/COOKING/CULINARYCENTER/HomeFeed_eng.json",
-        "Description": "File which contains ja custom recipes, life style articles and top assisted cooking items"
-      },
-      {
-        "fileName": "HomeFeed_fre.json",
-        "version": "1.0",
-        "URL": "NAR/WHIRLPOOL/MOBILEAPP/CATEGORIES/COOKING/CULINARYCENTER/HomeFeed_fre.json",
-        "Description": "File which contains ja custom recipes, life style articles and top assisted cooking items"
-      },
-      {
-        "fileName": "S2C Config",
-        "version": "1.0",
-        "URL": "NAR/WHIRLPOOL/MOBILEAPP/CATEGORIES/ScantoConnect.json",
-        "Description": "File which contains Scan to connect configurations"
-      },
-      {
-        "fileName": "Assisted cooking",
-        "version": "1.0",
-        "URL": "NAR/WHIRLPOOL/MOBILEAPP/CATEGORIES/COOKING/CULINARYCENTER/AssistedCooking.json",
-        "Description": "Assisted cooking config files"
-      },
-      {
-        "fileName": "Localization English",
-        "version": "1.0",
-        "URL": "NAR/WHIRLPOOL/MOBILEAPP/LOCALIZATION/eng",
-        "Description": "Localization English"
-      },
-      {
-        "fileName": "Localization French",
-        "version": "1.0",
-        "URL": "NAR/WHIRLPOOL/MOBILEAPP/LOCALIZATION/fre",
-        "Description": "Localization French"
-      },
-      {
-        "fileName": "Brand.json",
-        "version": "1.0",
-        "URL": "NAR/WHIRLPOOL/MOBILEAPP/Brand.json",
-        "Description": "Brand json file contains configurations that branded app needs"
-      },
-      {
-        "fileName": "Categories.json",
-        "version": "1.0",
-        "URL": "NAR/WHIRLPOOL/MOBILEAPP/CATEGORIES/Categories.json",
-        "Description": "Categories json file contains configurations that Appliance categories app needs"
-      },
-      {
-        "fileName": "Feature Info",
-        "version": "1.0",
-        "URL": "NAR/WHIRLPOOL/MOBILEAPP/FeaturesInfo.json",
-        "Description": "File which contains features info"
-      },
-      {
-        "fileName": "Appliance Documents",
-        "version": "1.0",
-        "URL": "NAR/WHIRLPOOL/MOBILEAPP/CATEGORIES/ApplianceDocuments.json",
-        "Description": "File which contains All files of Documents"
-      },
-      {
-        "fileName": "Smart Home",
-        "version": "1.0",
-        "URL": "NAR/WHIRLPOOL/MOBILEAPP/SmartHome.json",
-        "Description": "File which contains All Smart home integrations"
-      },
-	  {
-        "fileName": "CareTipConfig.json",
-        "version": "1.0",
-        "URL": "NAR/WHIRLPOOL/MOBILEAPP/CareTipConfig.json",
-        "Description": "CareTipConfig json file contains CareTip config for appliances "
-      }
-    ]
-  }
+	"Header": {
+		"title": "Master Configuration",
+		"version": "1.0",
+		"createdAt": "Oct 22, 2018 6:30:00 PM",
+		"modifiedDate": "",
+		"createdBy": "Venkat Boddapati",
+		"Description": ""
+	},
+	"Data": {
+		"Configurations": [{
+				"fileName": "HomeFeed_eng.json",
+				"extension": "json",
+				"version": "1.0",
+				"URL": "NAR/WHIRLPOOL/MOBILEAPP/CATEGORIES/COOKING/CULINARYCENTER/HomeFeed_eng.json",
+				"Description": "File which contains ja custom recipes, life style articles and top assisted cooking items"
+			},
+			{
+				"fileName": "HomeFeed_fre.json",
+				"extension": "json",
+				"version": "1.0",
+				"URL": "NAR/WHIRLPOOL/MOBILEAPP/CATEGORIES/COOKING/CULINARYCENTER/HomeFeed_fre.json",
+				"Description": "File which contains ja custom recipes, life style articles and top assisted cooking items"
+			},
+			{
+				"fileName": "S2C Config",
+				"extension": "json",
+				"version": "1.0",
+				"URL": "NAR/WHIRLPOOL/MOBILEAPP/CATEGORIES/ScantoConnect.json",
+				"Description": "File which contains Scan to connect configurations"
+			},
+			{
+				"fileName": "Assisted cooking",
+				"extension": "json",
+				"version": "1.0",
+				"URL": "NAR/WHIRLPOOL/MOBILEAPP/CATEGORIES/COOKING/CULINARYCENTER/AssistedCooking.json",
+				"Description": "Assisted cooking config files"
+			},
+			{
+				"fileName": "Localization English",
+				"extension": "json",
+				"version": "1.0",
+				"URL": "NAR/WHIRLPOOL/MOBILEAPP/LOCALIZATION/eng",
+				"Description": "Localization English"
+			},
+			{
+				"fileName": "Localization French",
+				"extension": "json",
+				"version": "1.0",
+				"URL": "NAR/WHIRLPOOL/MOBILEAPP/LOCALIZATION/fre",
+				"Description": "Localization French"
+			},
+			{
+				"fileName": "Brand.json",
+				"extension": "json",
+				"version": "1.0",
+				"URL": "NAR/WHIRLPOOL/MOBILEAPP/Brand.json",
+				"Description": "Brand json file contains configurations that branded app needs"
+			},
+			{
+				"fileName": "Categories.json",
+				"extension": "json",
+				"version": "1.0",
+				"URL": "NAR/WHIRLPOOL/MOBILEAPP/CATEGORIES/Categories.json",
+				"Description": "Categories json file contains configurations that Appliance categories app needs"
+			},
+			{
+				"fileName": "Feature Info",
+				"extension": "json",
+				"version": "1.0",
+				"URL": "NAR/WHIRLPOOL/MOBILEAPP/FeaturesInfo.json",
+				"Description": "File which contains features info"
+			},
+			{
+				"fileName": "Appliance Documents",
+				"extension": "json",
+				"version": "1.0",
+				"URL": "NAR/WHIRLPOOL/MOBILEAPP/CATEGORIES/ApplianceDocuments.json",
+				"Description": "File which contains All files of Documents"
+			},
+			{
+				"fileName": "Smart Home",
+				"extension": "json",
+				"version": "1.0",
+				"URL": "NAR/WHIRLPOOL/MOBILEAPP/SmartHome.json",
+				"Description": "File which contains All Smart home integrations"
+			},
+			{
+				"fileName": "CareTipConfig.json",
+				"extension": "json",
+				"version": "1.0",
+				"URL": "NAR/WHIRLPOOL/MOBILEAPP/CareTipConfig.json",
+				"Description": "CareTipConfig json file contains CareTip config for appliances "
+			},
+			{
+				"fileName": "BuySupplies.json",
+				"extension": "json",
+				"version": "1.0",
+				"URL": "NAR/WHIRLPOOL/MOBILEAPP/BuySupplies.json",
+				"Description": "Buy Supplies json file contains Buy Supplies config for appliances "
+			},
+			{
+				"fileName": "ExtendedServicePlans.json",
+				"extension": "json",
+				"version": "1.0",
+				"URL": "NAR/WHIRLPOOL/MOBILEAPP/ExtendedServicePlans.json",
+				"Description": "Extended Service Plans json file contains Extended Service Plans config for appliances "
+			},
+			{
+				"fileName": "Stain Guide",
+				"extension": "realm",
+				"version": "1.0",
+				"URL": "NAR/WHIRLPOOL/MOBILEAPP/CATEGORIES/FABRICCARE/STAINGUIDE/StainGuide.realm",
+				"Description": "Assisted cooking config files"
+			}
+		]
+	}
 }
