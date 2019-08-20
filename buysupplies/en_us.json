@@ -31,7 +31,7 @@
             "SupplyLocations": [
               {
                 "Merchant": "Amazon",
-                "Country": "United States",
+                "Country": "US",
                 "url": "https://www.amazon.com/Affresh-W10355053-Machine-Cleaning-Wipes/dp/B01BHUSR38/ref=sr_1_1?s=hi&ie=UTF8&qid=1532454323&sr=1-1&keywords=W10355053&th=1",
                 "FilePath": "NAR/WHIRLPOOL/DDM_LAUNDRY_RADIANT_NAR_COMBO_V1/DOCS/ENG/amazon_logo_RGB.jpg"
               }
@@ -40,13 +40,20 @@
         },
         {
           "MachineCleanerTablets6count": {
-            "Name": "affresh® Washing Machine Cleaner Tablets – 6 count",
-            "Description": "Did you know that your washing machine needs a wash of its own? That’s why each affresh® Washing Machine Cleaner tablet is specially formulated to help keep your washing machine performing and looking like new. Simply drop a tablet in for a clean with confidence.",
-            "Disclaimer": "Did you know that your washing machine needs a wash of its own? That’s why each affresh® Washing Machine Cleaner tablet is specially formulated to help keep your washing machine performing and looking like new. Simply drop a tablet in for a clean with confidence.",
+            "Name": "kMachineCleanerTablets6count.Name",
+            "Description": "kMachineCleanerTablets6count.Description",
+            "Disclaimer": "kMachineCleanerTablets6count.Disclaimer",
             "SupplyLocations": [
               {
                 "Merchant": "Amazon",
-                "Country": "United States",
+                "AvailableIn": [
+          "US"],
+                "url": "kMachineCleanerTablets6count.url",
+                "FilePath": "kMachineCleanerTablets6count.FilePath"
+              },{
+                "Merchant": "Amazon",
+                "AvailableIn": [
+          "CA"],
                 "url": "https://www.amazon.com/Affresh-Washer-Machine-Cleaner-6-Tablets/dp/B00C91Q86I/ref=sr_1_1?s=hi&ie=UTF8&qid=1532454376&sr=8-1&keywords=W10501250",
                 "FilePath": "NAR/WHIRLPOOL/DDM_LAUNDRY_RADIANT_NAR_COMBO_V1/DOCS/ENG/amazon_logo_RGB.jpg"
               }
