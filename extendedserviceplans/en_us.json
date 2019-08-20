@@ -1,11 +1,11 @@
 {
     "Header": {
-      "title": "BuySupplies.json",
+      "title": "ExtendedServicePlans.json",
       "version": "1.0",
       "createdAt": "Aug 16, 2018 2:30:00 PM",
       "modifiedDate": "",
       "createdBy": "Victor Rosas",
-      "Description": "Whirlpool Buy Supplies Configuration"
+      "Description": "Whirlpool Extended Service Plans Configuration"
     },
     "Data": {
       "DDM_LAUNDRY_RADIANT_NAR_COMBO_V1": [
