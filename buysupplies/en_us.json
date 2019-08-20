@@ -10,20 +10,6 @@
     "Data": {
       "DDM_LAUNDRY_RADIANT_NAR_COMBO_V1": [
         {
-          "ExtendedServicePlan": {
-            "Name": "Extended Service Plan",
-            "Description": "Extended Service Plan",
-            "Disclaimer": "Extended Service Plan",
-            "SupplyLocations": [
-              {
-                "Merchant": "Whirlpool",
-                "Country": "United States",
-                "url": "https://serviceplans.whirlpool.com/"
-              }
-            ]
-          }
-        },
-        {
           "MachineCleaningWipes": {
             "Name": "affresh® Machine Cleaning Wipes",
             "Description": "Keeping your washer looking like new is easy, thanks to the versatility of affresh® Machine Cleaning Wipes—the strongest and thickest washing machine cleaning wipe available. Featuring dual-sided durability, a clean lemongrass scent and Micro-Grab™ fibers that visibly lift and lock in residue, dirt and dust from machine surfaces, no other washing machine wipe cleans better.",
@@ -31,7 +17,8 @@
             "SupplyLocations": [
               {
                 "Merchant": "Amazon",
-                "Country": "US",
+                "AvailableIn": [
+          "US"],
                 "url": "https://www.amazon.com/Affresh-W10355053-Machine-Cleaning-Wipes/dp/B01BHUSR38/ref=sr_1_1?s=hi&ie=UTF8&qid=1532454323&sr=1-1&keywords=W10355053&th=1",
                 "FilePath": "NAR/WHIRLPOOL/DDM_LAUNDRY_RADIANT_NAR_COMBO_V1/DOCS/ENG/amazon_logo_RGB.jpg"
               }
@@ -63,20 +50,6 @@
       ],
       "DDM_LAUNDRY_JANUS_WASHER_INDIGO_WHIRLPOOL_DVT_V1": [
         {
-          "ExtendedWarranty": {
-            "Name": "Extended Warranty",
-            "Description": "Extended Warranty",
-            "Disclaimer": "Extended Warranty",
-            "SupplyLocations": [
-              {
-                "Merchant": "Whirlpool",
-                "url": "https://serviceplans.whirlpool.com/",
-                "Country": "United States"
-              }
-            ]
-          }
-        },
-        {
           "MachineCleaningWipes": {
             "Name": "affresh® Machine Cleaning Wipes",
             "Description": "Keeping your washer looking like new is easy, thanks to the versatility of affresh® Machine Cleaning Wipes—the strongest and thickest washing machine cleaning wipe available. Featuring dual-sided durability, a clean lemongrass scent and Micro-Grab™ fibers that visibly lift and lock in residue, dirt and dust from machine surfaces, no other washing machine wipe cleans better.",
@@ -84,7 +57,8 @@
             "SupplyLocations": [
               {
                 "Merchant": "Amazon",
-                "Country": "United States",
+                "AvailableIn": [
+          "US"],
                 "url": "https://www.amazon.com/Affresh-W10355053-Machine-Cleaning-Wipes/dp/B01BHUSR38/ref=sr_1_1?s=hi&ie=UTF8&qid=1532454323&sr=1-1&keywords=W10355053&th=1",
                 "FilePath": "NAR/WHIRLPOOL/DDM_LAUNDRY_JANUS_WASHER_INDIGO_WHIRLPOOL_V1/DOCS/ENG/amazon_logo_RGB.jpg"
               }
@@ -99,7 +73,8 @@
             "SupplyLocations": [
               {
                 "Merchant": "Amazon",
-                "Country": "United States",
+                "AvailableIn": [
+          "US"],
                 "url": "https://www.amazon.com/Affresh-Washer-Machine-Cleaner-6-Tablets/dp/B00C91Q86I/ref=sr_1_1?s=hi&ie=UTF8&qid=1532454376&sr=8-1&keywords=W10501250",
                 "FilePath": "NAR/WHIRLPOOL/DDM_LAUNDRY_JANUS_WASHER_INDIGO_WHIRLPOOL_V1/DOCS/ENG/amazon_logo_RGB.jpg"
               }
@@ -109,20 +84,6 @@
       ],
       "DDM_LAUNDRY_JANUS_WASHER_INDIGO_WHIRLPOOL_V1": [
         {
-          "ExtendedWarranty": {
-            "Name": "Extended Warranty",
-            "Description": "Extended Warranty",
-            "Disclaimer": "Extended Warranty",
-            "SupplyLocations": [
-              {
-                "Merchant": "Whirlpool",
-                "url": "https://serviceplans.whirlpool.com/",
-                "Country": "United States"
-              }
-            ]
-          }
-        },
-        {
           "MachineCleaningWipes": {
             "Name": "affresh® Machine Cleaning Wipes",
             "Description": "Keeping your washer looking like new is easy, thanks to the versatility of affresh® Machine Cleaning Wipes—the strongest and thickest washing machine cleaning wipe available. Featuring dual-sided durability, a clean lemongrass scent and Micro-Grab™ fibers that visibly lift and lock in residue, dirt and dust from machine surfaces, no other washing machine wipe cleans better.",
@@ -130,7 +91,8 @@
             "SupplyLocations": [
               {
                 "Merchant": "Amazon",
-                "Country": "United States",
+                "AvailableIn": [
+          "US"],
                 "url": "https://www.amazon.com/Affresh-W10355053-Machine-Cleaning-Wipes/dp/B01BHUSR38/ref=sr_1_1?s=hi&ie=UTF8&qid=1532454323&sr=1-1&keywords=W10355053&th=1",
                 "FilePath": "NAR/WHIRLPOOL/DDM_LAUNDRY_JANUS_WASHER_INDIGO_WHIRLPOOL_V1/DOCS/ENG/amazon_logo_RGB.jpg"
               }
@@ -145,7 +107,8 @@
             "SupplyLocations": [
               {
                 "Merchant": "Amazon",
-                "Country": "United States",
+                "AvailableIn": [
+          "US"],
                 "url": "https://www.amazon.com/Affresh-Washer-Machine-Cleaner-6-Tablets/dp/B00C91Q86I/ref=sr_1_1?s=hi&ie=UTF8&qid=1532454376&sr=8-1&keywords=W10501250",
                 "FilePath": "NAR/WHIRLPOOL/DDM_LAUNDRY_JANUS_WASHER_INDIGO_WHIRLPOOL_V1/DOCS/ENG/amazon_logo_RGB.jpg"
               }
@@ -154,68 +117,15 @@
         }
       ],
       "DDM_Washer_V10K_V1": [
-        {
-          "ExtendedWarranty": {
-            "Name": "Extended Warranty",
-            "Description": null,
-            "Disclaimer": null,
-            "SupplyLocations": [
-              {
-                "Merchant": "Whirlpool",
-                "url": "https://serviceplans.whirlpool.com/",
-                "Country": "United States"
-              }
-            ]
-          }
-        }
+        
       ],
       "DDM_Washer_SmartGrid_V1": [
-        {
-          "ExtendedWarranty": {
-            "Name": "Extended Warranty",
-            "Description": null,
-            "Disclaimer": null,
-            "SupplyLocations": [
-              {
-                "Merchant": "Whirlpool",
-                "Country": "United States",
-                "url": "https://serviceplans.whirlpool.com/"
-              }
-            ]
-          }
-        }
+        
       ],
       "DDM_LAUNDRY_VMAX20_WHIRLPOOL_DRYER8_V1": [
-        {
-          "ExtendedWarranty": {
-            "Name": "Extended Warranty",
-            "Description": "Extended Warranty",
-            "Disclaimer": "Extended Warranty",
-            "SupplyLocations": [
-              {
-                "Merchant": "Whirlpool",
-                "url": "https://serviceplans.whirlpool.com/",
-                "Country": "United States"
-              }
-            ]
-          }
-        }
+        
       ],
       "DDM_LAUNDRY_VMAX20_WHIRLPOOL_WASHER8_V1": [
-        {
-          "ExtendedWarranty": {
-            "Name": "Extended Warranty",
-            "Description": "Extended Warranty",
-            "Disclaimer": "Extended Warranty",
-            "SupplyLocations": [
-              {
-                "Merchant": "Whirlpool",
-                "url": "https://serviceplans.whirlpool.com/",
-                "Country": "United States"
-              }
-            ]
-          }
-        },
         {
           "MachineCleaningWipes": {
             "Name": "affresh® Machine Cleaning Wipes",
@@ -224,7 +134,8 @@
             "SupplyLocations": [
               {
                 "Merchant": "Amazon",
-                "Country": "United States",
+                "AvailableIn": [
+          "US"],
                 "url": "https://www.amazon.com/Affresh-W10355053-Machine-Cleaning-Wipes/dp/B01BHUSR38/ref=sr_1_1?s=hi&ie=UTF8&qid=1532454323&sr=1-1&keywords=W10355053&th=1",
                 "FilePath": "NAR/WHIRLPOOL/DDM_LAUNDRY_JANUS_WASHER_INDIGO_WHIRLPOOL_V1/DOCS/ENG/amazon_logo_RGB.jpg"
               }
@@ -239,7 +150,8 @@
             "SupplyLocations": [
               {
                 "Merchant": "Amazon",
-                "Country": "United States",
+                "AvailableIn": [
+          "US"],
                 "url": "https://www.amazon.com/Affresh-Washer-Machine-Cleaner-6-Tablets/dp/B00C91Q86I/ref=sr_1_1?s=hi&ie=UTF8&qid=1532454376&sr=8-1&keywords=W10501250",
                 "FilePath": "NAR/WHIRLPOOL/DDM_LAUNDRY_JANUS_WASHER_INDIGO_WHIRLPOOL_V1/DOCS/ENG/amazon_logo_RGB.jpg"
               }
@@ -249,20 +161,6 @@
       ],
       "DDM_LAUNDRY_JANUS_DRYER_INDIGO_WHIRLPOOL_V1": [
         {
-          "ExtendedWarranty": {
-            "Name": "Extended Warranty",
-            "Description": "Extended Warranty",
-            "Disclaimer": "Extended Warranty",
-            "SupplyLocations": [
-              {
-                "Merchant": "Whirlpool",
-                "url": "https://serviceplans.whirlpool.com/",
-                "Country": "United States"
-              }
-            ]
-          }
-        },
-        {
           "MachineCleaningWipes": {
             "Name": "affresh® Machine Cleaning Wipes",
             "Description": "Keeping your washer looking like new is easy, thanks to the versatility of affresh® Machine Cleaning Wipes—the strongest and thickest washing machine cleaning wipe available. Featuring dual-sided durability, a clean lemongrass scent and Micro-Grab™ fibers that visibly lift and lock in residue, dirt and dust from machine surfaces, no other washing machine wipe cleans better.",
@@ -270,7 +168,8 @@
             "SupplyLocations": [
               {
                 "Merchant": "Amazon",
-                "Country": "United States",
+                "AvailableIn": [
+          "US"],
                 "url": "https://www.amazon.com/Affresh-W10355053-Machine-Cleaning-Wipes/dp/B01BHUSR38/ref=sr_1_1?s=hi&ie=UTF8&qid=1532454323&sr=1-1&keywords=W10355053&th=1",
                 "FilePath": "NAR/WHIRLPOOL/DDM_LAUNDRY_JANUS_DRYER_INDIGO_WHIRLPOOL_V1/DOCS/ENG/amazon_logo_RGB.jpg"
               }
@@ -279,36 +178,8 @@
         }
       ],
       "DDM_Dryer_V10K_V1": [
-        {
-          "ExtendedWarranty": {
-            "Name": "Extended Warranty",
-            "Description": null,
-            "Disclaimer": null,
-            "SupplyLocations": [
-              {
-                "Merchant": "Whirlpool",
-                "url": "https://serviceplans.whirlpool.com/",
-                "Country": "United States"
-              }
-            ]
-          }
-        }
       ],
       "DDM_Dryer_SmartGrid_V1": [
-        {
-          "ExtendedWarranty": {
-            "Name": "Extended Warranty",
-            "Description": null,
-            "Disclaimer": null,
-            "SupplyLocations": [
-              {
-                "Merchant": "Whirlpool",
-                "Country": "United States",
-                "url": "https://serviceplans.whirlpool.com/"
-              }
-            ]
-          }
-        }
       ]
     }
   }
