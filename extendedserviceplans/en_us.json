@@ -17,7 +17,9 @@
             "SupplyLocations": [
               {
                 "Merchant": "Whirlpool",
-                "Country": "United States",
+                "AvailableIn": [
+          "US"
+        ],
                 "url": "https://serviceplans.whirlpool.com/"
               }
             ]
@@ -34,7 +36,9 @@
               {
                 "Merchant": "Whirlpool",
                 "url": "https://serviceplans.whirlpool.com/",
-                "Country": "United States"
+                "AvailableIn": [
+          "US"
+        ]
               }
             ]
           }
@@ -50,7 +54,9 @@
               {
                 "Merchant": "Whirlpool",
                 "url": "https://serviceplans.whirlpool.com/",
-                "Country": "United States"
+                "AvailableIn": [
+          "US"
+        ]
               }
             ]
           }
@@ -66,7 +72,9 @@
               {
                 "Merchant": "Whirlpool",
                 "url": "https://serviceplans.whirlpool.com/",
-                "Country": "United States"
+                "AvailableIn": [
+          "US"
+        ]
               }
             ]
           }
@@ -81,7 +89,9 @@
             "SupplyLocations": [
               {
                 "Merchant": "Whirlpool",
-                "Country": "United States",
+                "AvailableIn": [
+          "US"
+        ],
                 "url": "https://serviceplans.whirlpool.com/"
               }
             ]
@@ -98,7 +108,9 @@
               {
                 "Merchant": "Whirlpool",
                 "url": "https://serviceplans.whirlpool.com/",
-                "Country": "United States"
+                "AvailableIn": [
+          "US"
+        ]
               }
             ]
           }
@@ -114,7 +126,9 @@
               {
                 "Merchant": "Whirlpool",
                 "url": "https://serviceplans.whirlpool.com/",
-                "Country": "United States"
+                "AvailableIn": [
+          "US"
+        ]
               }
             ]
           }
@@ -130,7 +144,9 @@
               {
                 "Merchant": "Whirlpool",
                 "url": "https://serviceplans.whirlpool.com/",
-                "Country": "United States"
+                "AvailableIn": [
+          "US"
+        ]
               }
             ]
           }
@@ -146,7 +162,9 @@
               {
                 "Merchant": "Whirlpool",
                 "url": "https://serviceplans.whirlpool.com/",
-                "Country": "United States"
+                "AvailableIn": [
+          "US"
+        ]
               }
             ]
           }
@@ -161,7 +179,9 @@
             "SupplyLocations": [
               {
                 "Merchant": "Whirlpool",
-                "Country": "United States",
+                "AvailableIn": [
+          "US"
+        ],
                 "url": "https://serviceplans.whirlpool.com/"
               }
             ]
