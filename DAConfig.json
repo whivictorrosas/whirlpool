@@ -11,12 +11,12 @@
 		"AssignTask": {
 			"WashCavity": [
 				{
-					"kOption": "Switch Clothes to the Dryer",
-					"kMessage": "The washer is done. Can you please move the clothes and start the dryer?"
+					"kOption": "kOption1",
+					"kMessage": "KMessage1"
 				},
 				{
-					"kOption": "Remove Some Clothes and Start the Dryer",
-					"kMessage": "The washer is done. Can you please remove clothes that need to hang dry and then start the dryer with the rest?"
+					"kOption": "kOption2",
+					"kMessage": "KMessage2"
 				},
 				{
 					"kOption": "Hang Clothes to Air Dry",
