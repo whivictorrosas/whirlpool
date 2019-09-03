@@ -1,0 +1,64 @@
+{
+	"Header": {
+		"title": "DAConfig.json",
+		"version": "1.0",
+		"createdAt": "Sep 03, 2019 2:30:00 PM",
+		"modifiedDate": "",
+		"createdBy": "Victor Rosas",
+		"Description": "DA Configuration"
+	},
+	"Data": {
+		"AssignTask": {
+			"WashCavity": [
+				{
+					"kOption": "Switch Clothes to the Dryer",
+					"kMessage": "The washer is done. Can you please move the clothes and start the dryer?"
+				},
+				{
+					"kOption": "Remove Some Clothes and Start the Dryer",
+					"kMessage": "The washer is done. Can you please remove clothes that need to hang dry and then start the dryer with the rest?"
+				},
+				{
+					"kOption": "Hang Clothes to Air Dry",
+					"kMessage": "The washer is done. Can you please hang the clothes to air dry?"
+				}
+			],
+			"DryCavity": [
+				{
+					"kOption": "Fold clothes",
+					"kMessage": "The dryer is done. Can you please fold the clothes?"
+				},
+				{
+					"kOption": "Iron Clothes",
+					"kMessage": "The dryer is done. Can you please iron the clothes?"
+				},
+				{
+					"kOption": "Hang Clothes",
+					"kMessage": "The dryer is done. Can you please hang the clothes?"
+				}
+			],
+			"ComboCavity": [
+				{
+					"kOption": "Switch Clothes to the Dryer",
+					"kMessage": "The washer is done. Can you please move the clothes and start the dryer?"
+				},
+				{
+					"kOption": "Remove Some Clothes and Start the Dryer",
+					"kMessage": "The washer is done. Can you please remove clothes that need to hang dry and then start the dryer with the rest?"
+				},
+				{
+					"kOption": "Hang Clothes",
+					"kMessage": "The dryer is done. Can you please hang the clothes?"
+				},
+				{
+					"kOption": "Fold clothes",
+					"kMessage": "The dryer is done. Can you please fold the clothes?"
+				},
+				{
+					"kOption": "Iron Clothes",
+					"kMessage": "The dryer is done. Can you please iron the clothes?"
+				}
+			]
+		}
+	}
+}
